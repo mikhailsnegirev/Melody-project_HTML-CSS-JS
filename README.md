@@ -1,5 +1,1 @@
-# melody-Учебный проект 
-### Технологии:
--html
--css
--javascript
+Deployed project: https://mikhailsnegirev.github.io/melody-project/
