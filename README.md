@@ -1,1 +1,1 @@
-Deployed project: https://mikhailsnegirev.github.io/melody-project/
+Deployed project: https://mikhailsnegirev.github.io/Melody-project_HTML-CSS-JS/
